@@ -1,2 +1,2 @@
-# Repo-for-Icons
-Icons for Blender Addons
+# IconNest
+Repository for Icons to use in Custom Blender Addons
