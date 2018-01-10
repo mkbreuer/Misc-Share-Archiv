@@ -3,8 +3,6 @@ T+ Addons Icons for Blender Addons
 This Icons are builded with photoshop and based in some parts on the official blender icons.
 But i only add the final 32x32px ideas to this repository.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-
 You are free to:   Share &  Adapt 
 
     > Share: copy and redistribute the material in any medium or format
@@ -37,5 +35,7 @@ Notices:
     > No warranties are given. 
     > The license may not give you all of the permissions necessary for your intended use. 
     > For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 Copyright (C) 2017  Marvin.K.Breuer (MKB)
