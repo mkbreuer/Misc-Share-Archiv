@@ -1,2 +1,2 @@
-# Repo-for-Icons-
+# Repo-for-Icons
 Icons for Blender Addons
