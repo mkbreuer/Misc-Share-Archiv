@@ -1,2 +1,3 @@
-# IconNest
-Repository for Icons to use in Custom Blender Addons
+# Misc Share Archiv
+# Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) 
+# https://creativecommons.org/licenses/by-nc/4.0/
